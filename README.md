@@ -4,18 +4,14 @@
 
 ## Module 12 Class 13 December 17th— Lists
 
-### 🧪 Interactive Lab (In-Class Notebook) for class 13
-Use this notebook during lecture and guided practice.
 
+### 🧪 Interactive Lab (In-Class)
 [![Open Lab in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/jspiegel3/MCON141_Module12_ListsAndTuples-/blob/main/Module_12_Homework_Lists_1D_and_Nested.ipynb
+https://colab.research.google.com/github/jspiegel3/MCON141_Module12_ListsAndTuples-/blob/main/Module_12_Class_13_Lists_Lab.ipynb
 )
 
----
-
-### 📝 Homework (Extended Programming Problems) for class 13 
-This notebook contains the full homework assignment, including **4 larger programming problems**.
-
+### 📝 Homework (Programming Problems)
 [![Open Homework in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/jspiegel3/MCON141_Module12_ListsAndTuples-/blob/main/Module_12_Homework_Lists_1D_and_Nested_v2_With_4_Programming_Problems.ipynb
 )
+
