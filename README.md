@@ -15,3 +15,4 @@ https://colab.research.google.com/github/jspiegel3/MCON141_Module12_ListsAndTupl
 https://colab.research.google.com/github/jspiegel3/MCON141_Module12_ListsAndTuples-/blob/main/Module_12_Homework_Lists_1D_and_Nested_v2_With_4_Programming_Problems.ipynb
 )
 
+## Note : there are two homeworks that are exactly the same in this repository, do not worry about which you do. Thank you. This link leads you to one particular version, but the other is the exactly the same. 
